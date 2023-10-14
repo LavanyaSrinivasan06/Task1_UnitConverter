@@ -4,7 +4,7 @@
 
 # Description:
 
-The Unit Converter is my inaugural project as part of the TopperWorld internship, showcasing my passion for programming and problem-solving. This versatile tool simplifies conversions between different units of measurement, making it invaluable for scientific projects, exam preparations, and everyday tasks. The application boasts a user-friendly interface for effortless conversions, allowing users to convert various units with ease.
+The Unit Converter is my inaugural project as part of the TopperWorld internship, showcasing my passion for programming and problem-solving. This versatile tool simplifies conversions between different units of measurement. The application boasts a user-friendly interface for effortless conversions, allowing users to convert various units with ease.
 
 # Key Features:
 
